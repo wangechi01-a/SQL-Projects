@@ -1,3 +1,3 @@
 # SQL-Learning-Projects
 
-Small projects for learning SQL
+Beginner SQL projects
