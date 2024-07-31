@@ -1,3 +1,3 @@
-# SQL-Learning-Projects
+# SQL-Learning-Projects 
 
 Beginner SQL projects with datasets from kaggle.
